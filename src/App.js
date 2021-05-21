@@ -20,7 +20,7 @@ export default function App() {
         <p>
               Coded by Sylwia Lis-Mila and is{""} 
                <a href="https://github.com/SylwiaLis-Mila/dictionary-project-sc" target="_blank"> open-sourced on GitHub </a>
-               and <a href="https://cocky-curran-f6a8d9.netlify.app/">hosted on Netlify</a>
+               and hosted on Netlify
           </p>
         </small>    
                
