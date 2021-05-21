@@ -2,10 +2,18 @@
   text-align: center;
 }
 
-.App-logo {
-  max-width: 200px;
+body {
+  background-image: url("./img/bg2.jpg");
+  background-size: contain;
+  background-position: center;
   display: block;
-  margin: 0 auto;
+  padding: 190px;
+  background-repeat: no-repeat;
+  margin: auto 0;
+}
+
+hr {
+  width: 60%;
 }
 .App-footer {
   text-align: center;

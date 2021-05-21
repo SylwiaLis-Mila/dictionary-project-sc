@@ -2,24 +2,31 @@ import logo from './logo.png';
 import './App.css';
 import Dictionary from "./Dictionary";
 
-function App() {
+export default function App() {
   return (
     <div className="App">
+      <div className="container">
       <header className="App-header">
-        <img src={logo}
-        className="App-logo"
-        alt="logo" />
+        <h1>dic·tion·ar·y</h1>
+         <hr />
+         <h2> What word do you want to look up? </h2>
       </header>
       <main>
         <Dictionary />
 
       </main>
-      <footer className="text-center">
-
-        Coded by Sylwia Lis-Mila
+      <footer className="App-foother">   
+      <small> 
+        <p>
+              Coded by Sylwia Lis-Mila and is{""} 
+               <a href="https://github.com/SylwiaLis-Mila/dictionary-project-sc" target="_blank"> open-sourced on GitHub </a>
+               and <a href="https://cocky-curran-f6a8d9.netlify.app/">hosted on Netlify</a>
+          </p>
+        </small>    
+               
       </footer>
+     </div>
+
     </div>
   );
 }
-
-export default App;
