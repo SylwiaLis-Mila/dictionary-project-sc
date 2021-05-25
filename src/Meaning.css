@@ -1,0 +1,15 @@
+.Meaning h3 {
+  font-size: 26px;
+  font-weight: bold;
+  color: #49563a;
+  margin: 5px 0 0;
+}
+
+.Meaning .defintion {
+  font-size: 26px;
+}
+.Meaning .example {
+  font-size: 15px;
+  opacity: 0, 8;
+  font-style: italic;
+}

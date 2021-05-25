@@ -10,9 +10,10 @@ export default function App() {
         <h1>dic·tion·ar·y</h1>
          <hr />
          <h2> What word do you want to look up? </h2>
+         <br />
       </header>
       <main>
-        <Dictionary />
+        <Dictionary defaultKeyword="hallo" />
 
       </main>
       <footer className="App-foother">   
