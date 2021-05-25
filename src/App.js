@@ -1,4 +1,3 @@
-import logo from './logo.png';
 import './App.css';
 import Dictionary from "./Dictionary";
 
@@ -20,7 +19,7 @@ export default function App() {
       <small> 
         <p>
               Coded by Sylwia Lis-Mila and is{""} 
-               <a href="https://github.com/SylwiaLis-Mila/dictionary-project-sc" target="_blank"> open-sourced on GitHub </a>
+               <a href="https://github.com/SylwiaLis-Mila/dictionary-project-sc" target="_blank" rel="noreferrer"> open-sourced on GitHub </a>
                and hosted on Netlify
           </p>
         </small>    
