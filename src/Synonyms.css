@@ -1,6 +1,6 @@
-.Synonyms {
-  margin: 25px 0 0;
-  padding: 0;
+.Synonyms p {
+  margin: 15px 0 0;
+  font-weight: bolder;
 }
 
 .Synonyms li {

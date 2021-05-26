@@ -2,4 +2,6 @@
   border-radius: 15px;
   margin-bottom: 20px;
   display: inline;
+  border: 1px solid #98999b;
+  border-radius: 20px;
 }

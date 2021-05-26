@@ -19,6 +19,9 @@ h2 {
   color: #49563a;
 }
 
+ul {
+  padding: 0px;
+}
 .App {
   max-width: 960px;
   margin: 0 auto;
